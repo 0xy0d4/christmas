@@ -1,0 +1,3 @@
+<? Php
+echo index.php;
+?>
